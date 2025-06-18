@@ -10,7 +10,7 @@ metadata:
     pipelinesascode.tekton.dev/task-1: "https://raw.githubusercontent.com/redhat-appstudio/tssc-sample-pipelines/main/pac/tasks/gather-deploy-images.yaml"
     pipelinesascode.tekton.dev/task-2: "https://raw.githubusercontent.com/redhat-appstudio/tssc-sample-pipelines/main/pac/tasks/verify-enterprise-contract.yaml"
     pipelinesascode.tekton.dev/task-3: "https://raw.githubusercontent.com/redhat-appstudio/tssc-sample-pipelines/main/pac/tasks/gather-deploy-images.yaml"
-    pipelinesascode.tekton.dev/task-4: "https://raw.githubusercontent.com/redhat-appstudio/tssc-sample-pipelines/main/pac/tasks/download-sbom-from-url-in-attestation.yaml"
+    pipelinesascode.tekton.dev/task-4: "https://raw.githubusercontent.com/xinredhat/tssc-sample-pipelines/refs/heads/xinredhat-patch-1/pac/tasks/download-sbom-from-url-in-attestation.yaml"
     pipelinesascode.tekton.dev/task-5: "https://raw.githubusercontent.com/redhat-appstudio/tssc-sample-pipelines/main/pac/tasks/upload-sbom-to-trustification.yaml"
   labels:
     argocd/app-name: go-vacntohj
